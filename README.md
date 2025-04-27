@@ -32,6 +32,7 @@ Restore the VM from the backup:
 ## 🔥 Hosted Applications and Details
 
 - Note: a lot of these still require an admins approval, so you may or may not be able to create an account. Definitely check out the Mattermost and the Calendly application for starters.
+- No SSL Certificates yet, you will just have to proceed past the warning.
 
 ### 1. Gitea - Source Code Hosting & Collaboration
 *Paid SaaS equivalent:* GitHub / GitLab.com
