@@ -3,7 +3,7 @@
 **By:** Alex Zheng, Audrey Wong, Nathan Zhang, Kevin Sun
 
 ## About the Project
-Software-as-a-Service (SaaS) subscriptions drain thousands of dollars every year from companies and startups. Tools like Slack, GitHub, Notion, and Zoom started as ways to make software easier to use — but over time, they became costly rental services that limit control, privacy, and financial flexibility.
+Software-as-a-Service (SaaS) subscriptions drain thousands of dollars every year from companies, startups, and student groups. Tools like Slack, GitHub, Notion, and Zoom started as ways to make software easier to use — but over time, they became costly rental services that limit control, privacy, and financial flexibility.
 
 This project solves this problem by self-hosting powerful, open-source alternatives to common SaaS tools on our own server.
 By doing this, we help startups, student groups, and individuals save thousands of dollars while maintaining full ownership and control over their data and software.
