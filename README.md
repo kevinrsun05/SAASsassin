@@ -1,5 +1,7 @@
 # 🌟 SAASsassin - A Open-Source SaaS Hosting Project
 
+**By:** Alex Zheng, Audrey Wong, Nathan Zhang, Kevin Sun
+
 ## About the Project
 Software-as-a-Service (SaaS) subscriptions drain thousands of dollars every year from companies and startups. Tools like Slack, GitHub, Notion, and Zoom started as ways to make software easier to use — but over time, they became costly rental services that limit control, privacy, and financial flexibility.
 
