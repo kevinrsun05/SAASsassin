@@ -31,7 +31,7 @@ Restore the VM from the backup:
 
 ## 🔥 Hosted Applications and Details
 
-- Note: a lot of these still require an admins approval, so you may or may not be able to create an account. Definitely check out the Mattermost application for starters.
+- Note: a lot of these still require an admins approval, so you may or may not be able to create an account. Definitely check out the Mattermost and the Calendly application for starters.
 
 ### 1. Gitea - Source Code Hosting & Collaboration
 *Paid SaaS equivalent:* GitHub / GitLab.com
@@ -73,10 +73,11 @@ Restore the VM from the backup:
 
 *URL:* http://tinycv.art:3010/
 
-### 11. Cal.com
+### 9. Cal.com
 *Paid SaaS equivalent:* Calendly
 
 *URL:* http://tinycv.art:3020/
+*Sign-up URL:* http://tinycv.art:3020/smalex/lahacks-meeting
 
 
 ### 10. Penpot - UI/UX Design & Prototyping
