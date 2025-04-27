@@ -52,20 +52,22 @@ We built a complete free alternative "workspace" that covers everything from rea
 
 *URL:* http://tinycv.art:3010/
 
-### 9. Jenkins - CI/CD Automation
-*Paid SaaS equivalent:* GitHub Actions / CircleCI
+### 11. Cal.com
+*Paid SaaS equivalent:* Calendly
 
-*URL:* http://tinycv.art:8080/
+*URL:* http://tinycv.art:3020/
+
 
 ### 10. Penpot - UI/UX Design & Prototyping
 *Paid SaaS equivalent:* Figma
 
 *URL:* http://tinycv.art:9005
 
-### 11. Cal.com
-*Paid SaaS equivalent:* Calendly
 
-*URL:* http://tinycv.art:3020/
+### 11. Jenkins - CI/CD Automation
+*Paid SaaS equivalent:* GitHub Actions / CircleCI
+
+*URL:* http://tinycv.art:8080/
 
 ### 12. Wekan - Kanban Task Management
 *Paid SaaS equivalent:* Trello
